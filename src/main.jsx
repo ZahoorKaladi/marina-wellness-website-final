@@ -4,8 +4,8 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import "./index.css";
-import layout from "./components/layout";
-import scrolltotop from "./components/scrolltotop";
+import Layout from "./components/layout";
+import ScrollToTop from "./components/scrolltotop";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <BrowserRouter>
 
