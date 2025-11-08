@@ -1,10 +1,10 @@
 // src/pages/home.jsx
 import React from "react";
-import Hero from "../components/Hero"; // Assuming your hero component is in this path
-import MissionSection from "../components/MissionSection";
-import CounterSection from "../components/countersection";
-import ServicesSection from "../components/ServicesSection";
-import DonationSection from "../components/donationsection";
+import hero from "../components/hero"; // Assuming your hero component is in this path
+import missionsection from "../components/missionsection";
+import countersection from "../components/countersection";
+import servicessection from "../components/servicessection";
+import donationsection from "../components/donationsection";
 //import TestimonialsSection from "../components/TestimonialsSection";
 import GallerySection from "../components/gallerysection";
 import BlogSection from "../components/blogsection";
